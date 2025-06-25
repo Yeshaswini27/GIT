@@ -1,4 +1,10 @@
 1. git init //initializes empty git repository
-2. git add //this command helps to add the file(U- UNTRACKED FILE, A- File is added to the folder) to the GIT folder
+-->> open the GIT folder in the vs code and create the files after creating add the files using git add command
+2. git add //this command helps to add the file(U- UNTRACKED FILE, A- File is added to the folder, M- refers to the modified file) to the GIT folder
 3. git status //hepls to see the status 
 4. git commit -m "by adding some line about the file" which gets commit
+5. login to the the github click on the new and add the folder name which yo have created in the desktop.
+6. there will some command after the git branch copy the command and run in the command prompt
+7. bit push -u origin master //we need to push the files to the github by using this command
+8. git pull origin master //pulls from the main branch to the origin remote( like if we add some information in github)
+we need run this command so that the infomation which is added in github is added in the local or the orinin file in the desktop
