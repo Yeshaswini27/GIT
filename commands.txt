@@ -1,4 +1,4 @@
 1. git init //initializes empty git repository
 2. git add //this command helps to add the file(U- UNTRACKED FILE, A- File is added to the folder) to the GIT folder
 3. git status //hepls to see the status 
-4. git commit //
+4. git commit -m "by adding some line about the file" which gets commit
